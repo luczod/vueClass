@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<MsgFlash /> > should match rendered 1`] = `
+<p
+  class="msg error"
+  data-v-2df7bc9a=""
+>
+  mensagem de erro
+</p>
+`;

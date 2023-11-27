@@ -1,0 +1,54 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<NavBar /> > should match rendered 1`] = `
+<nav
+  data-v-61681749=""
+  id="nav"
+>
+  <a
+    class=""
+    data-v-61681749=""
+    href="/profile"
+    id="logo-container"
+  >
+    <img
+      alt="Party Time"
+      data-v-61681749=""
+      src="/img/partytimelogo.png"
+    />
+  </a>
+  <h2
+    data-v-61681749=""
+    id="nav-title"
+  >
+    Party Time
+  </h2>
+  <div
+    data-v-61681749=""
+    id="nav-links"
+  >
+    <!-- &lt;router-link :to="{ name: 'home' }"&gt;Home&lt;/router-link&gt; -->
+    <a
+      class=""
+      data-v-61681749=""
+      href="/"
+    >
+      Home
+    </a>
+    <a
+      class=""
+      data-v-61681749=""
+      href="/about"
+    >
+      About
+    </a>
+    <a
+      class=""
+      data-v-61681749=""
+      href="/register"
+    >
+      Cadastrar
+    </a>
+  </div>
+</nav>
+`;

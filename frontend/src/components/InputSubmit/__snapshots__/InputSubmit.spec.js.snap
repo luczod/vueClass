@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<InputSubmit /> > should match rendered 1`] = `
+<input
+  class="btn"
+  data-v-8bf9b1d7=""
+  type="submit"
+/>
+`;

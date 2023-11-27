@@ -1,0 +1,20 @@
+html,
+body {
+  background-color: rgb(226 232 240);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  color: #444;
+}
+
+.container {
+  min-height: 18rem;
+}
+
+a {
+  text-decoration: none;
+}

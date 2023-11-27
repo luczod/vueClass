@@ -1,0 +1,104 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<UserForm /> > should match rendered 1`] = `
+<div
+  data-v-86b5fd1e=""
+>
+  <!--v-if-->
+  <form
+    data-v-86b5fd1e=""
+    id="user-form"
+    name="<input data-v-86b5fd1e=\\"\\" type=\\"text\\" id=\\"name\\" name=\\"name\\" placeholder=\\"Digite seu nome\\">"
+  >
+    <div
+      class="input-container"
+      data-v-86b5fd1e=""
+    >
+      <label
+        data-v-86b5fd1e=""
+        for="name"
+      >
+        Nome:
+      </label>
+      <input
+        data-v-86b5fd1e=""
+        id="name"
+        name="name"
+        placeholder="Digite seu nome"
+        type="text"
+      />
+      <!--v-if-->
+    </div>
+    <div
+      class="input-container"
+      data-v-86b5fd1e=""
+    >
+      <label
+        data-v-86b5fd1e=""
+        for="email"
+      >
+        Email:
+      </label>
+      <input
+        data-v-86b5fd1e=""
+        id="email"
+        name="email"
+        placeholder="Digite seu email"
+        type="text"
+      />
+      <!--v-if-->
+    </div>
+    <div
+      class="input-container"
+      data-v-86b5fd1e=""
+    >
+      <label
+        data-v-86b5fd1e=""
+        for="password"
+      >
+        Senha:
+      </label>
+      <input
+        data-v-86b5fd1e=""
+        id="password"
+        name="password"
+        placeholder="Digite sua senha"
+        type="password"
+      />
+      <button
+        data-v-86b5fd1e=""
+        type="button"
+      >
+        <slasheyeicon
+          data-v-86b5fd1e=""
+        />
+      </button>
+      <!--v-if-->
+    </div>
+    <div
+      class="input-container"
+      data-v-86b5fd1e=""
+    >
+      <label
+        data-v-86b5fd1e=""
+        for="confirmPassword"
+      >
+        Senha:
+      </label>
+      <input
+        data-v-86b5fd1e=""
+        id="confirmPassword"
+        name="confirmPassword"
+        placeholder="Confirme sua senha"
+        type="password"
+      />
+    </div>
+    <input
+      class="btn"
+      data-v-86b5fd1e=""
+      data-v-8bf9b1d7=""
+      type="submit"
+    />
+  </form>
+</div>
+`;
